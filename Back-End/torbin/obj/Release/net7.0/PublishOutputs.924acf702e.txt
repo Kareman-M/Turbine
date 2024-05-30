@@ -1,0 +1,17 @@
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\torbin.exe
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\torbin.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\torbin.deps.json
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\torbin.runtimeconfig.json
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\torbin.pdb
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\EPPlus.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\EPPlus.Interfaces.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\EPPlus.System.Drawing.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\Microsoft.IO.RecyclableMemoryStream.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\System.Drawing.Common.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\torbin\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

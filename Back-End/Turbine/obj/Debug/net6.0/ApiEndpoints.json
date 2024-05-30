@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Turbine.Controllers.HomeController",
+    "Method": "Get",
+    "RelativePath": "api/Home/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "sector",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "citycode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Turbine.Controllers.HomeController",
+    "Method": "GetCities",
+    "RelativePath": "api/Home/GetCities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Turbine.Controllers.HomeController",
+    "Method": "GetSectors",
+    "RelativePath": "api/Home/GetSectors/{cityCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

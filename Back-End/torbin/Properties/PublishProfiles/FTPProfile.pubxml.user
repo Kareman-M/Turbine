@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0EV6pmoSVkKjBoGqdKuFfwAAAAACAAAAAAAQZgAAAAEAACAAAACLk4PY+9wQtao5dBN7Rb6grTQAax7wPvhU5tgT/vrTRwAAAAAOgAAAAAIAACAAAABpnhGv6GnpT5Y3adTuPsU9su9KfmmtZq8psNE8c8S8IiAAAAD/5Znz+39pkfnr+w5dOxHJcTfhf41C6nHv+2NSs/cop0AAAADeyIMjSELJmVuu871Tg3XYvpLHIpwAWaU8m/LKLVmVFpeFUJ2g80d9nRpboMK5N/dibG5ooVjzhAYwELeXTA07</EncryptedPassword>
+    <History>True|2024-05-14T23:13:32.8221789Z;True|2024-05-15T02:08:21.4976993+03:00;False|2024-05-15T02:04:53.7740052+03:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://turbinebsusite.somee.com/www.turbinebsusite.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/15/2024 02:00:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/15/2024 02:00:56</publishTime>
+    </File>
+    <File Include="EPPlus.dll">
+      <publishTime>04/23/2024 09:57:18</publishTime>
+    </File>
+    <File Include="EPPlus.Interfaces.dll">
+      <publishTime>11/21/2022 14:51:04</publishTime>
+    </File>
+    <File Include="EPPlus.System.Drawing.dll">
+      <publishTime>11/21/2022 14:51:06</publishTime>
+    </File>
+    <File Include="Microsoft.IO.RecyclableMemoryStream.dll">
+      <publishTime>12/11/2023 23:53:28</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/18/2022 18:16:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/18/2022 18:17:28</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Drawing.Common.dll">
+      <publishTime>10/18/2022 18:17:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Security.Cryptography.Pkcs.dll">
+      <publishTime>06/19/2023 02:39:10</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/18/2022 18:17:04</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.Pkcs.dll">
+      <publishTime>06/19/2023 02:37:54</publishTime>
+    </File>
+    <File Include="torbin.deps.json">
+      <publishTime>05/15/2024 02:11:18</publishTime>
+    </File>
+    <File Include="torbin.dll">
+      <publishTime>05/15/2024 02:11:12</publishTime>
+    </File>
+    <File Include="torbin.exe">
+      <publishTime>05/15/2024 02:11:12</publishTime>
+    </File>
+    <File Include="torbin.pdb">
+      <publishTime>05/15/2024 02:11:12</publishTime>
+    </File>
+    <File Include="torbin.runtimeconfig.json">
+      <publishTime>05/15/2024 02:04:28</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/15/2024 02:11:18</publishTime>
+    </File>
+    <File Include="wwwroot/torbin.styles.css">
+      <publishTime>05/15/2024 02:04:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

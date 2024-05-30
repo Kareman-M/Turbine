@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Turbin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Turbin.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Turbin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Turbin.props",
+      "PackagePath": "build\\Turbin.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Turbin.props",
+      "PackagePath": "buildMultiTargeting\\Turbin.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Turbin.props",
+      "PackagePath": "buildTransitive\\Turbin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

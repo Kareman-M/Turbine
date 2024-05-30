@@ -1,0 +1,6 @@
+@Turbine_HostAddress = http://localhost:5188
+
+GET {{Turbine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

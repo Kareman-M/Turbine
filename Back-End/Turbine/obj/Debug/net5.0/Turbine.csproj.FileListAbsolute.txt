@@ -1,0 +1,7 @@
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.csproj.AssemblyReference.cache
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.GeneratedMSBuildEditorConfig.editorconfig
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.AssemblyInfoInputs.cache
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.AssemblyInfo.cs
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.csproj.CoreCompileInputs.cache
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.MvcApplicationPartsAssemblyInfo.cs
+D:\pers\Nourhan\GraduationProject\Turbin\Back-End\Turbine\obj\Debug\net5.0\Turbine.MvcApplicationPartsAssemblyInfo.cache

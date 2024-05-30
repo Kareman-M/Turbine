@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "pkXZL9wwezNMD+mpoQ//Umm6AhJ3I5sHqQ/3CshQCZ8=",
+  "Source": "Turbin",
+  "BasePath": "_content/Turbin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Turbin\\wwwroot",
+      "Source": "Turbin",
+      "ContentRoot": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\wwwroot\\",
+      "BasePath": "_content/Turbin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\bundle\\Turbin.styles.css",
+      "SourceId": "Turbin",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Turbin",
+      "RelativePath": "Turbin.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\bundle\\Turbin.styles.css"
+    },
+    {
+      "Identity": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Turbin.bundle.scp.css",
+      "SourceId": "Turbin",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Turbin",
+      "RelativePath": "Turbin.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Turbin.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\wwwroot\\favicon.ico",
+      "SourceId": "Turbin",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\pers\\Nourhan\\GraduationProject\\Turbin\\Back-End\\Turbin\\wwwroot\\",
+      "BasePath": "_content/Turbin",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
